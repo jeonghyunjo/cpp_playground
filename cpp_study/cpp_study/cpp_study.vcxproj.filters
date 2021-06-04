@@ -21,9 +21,21 @@
     <ClCompile Include="num_guess.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="tictactoe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TicMainClasses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TicMainFunctions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

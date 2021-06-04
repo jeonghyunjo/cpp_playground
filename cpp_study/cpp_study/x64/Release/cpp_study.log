@@ -1,0 +1,8 @@
+﻿  num_guess.cpp
+C:\Users\jeong\Desktop\cpp_playground\cpp_study\cpp_study\num_guess.cpp(11,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Source.cpp
+C:\Users\jeong\Desktop\cpp_playground\cpp_study\cpp_study\Source.cpp(21,19): warning C4305: '=': truncation from 'double' to 'float'
+  tictactoe.cpp
+Source.obj : error LNK2005: main already defined in num_guess.obj
+tictactoe.obj : error LNK2005: main already defined in num_guess.obj
+C:\Users\jeong\Desktop\cpp_playground\cpp_study\x64\Release\cpp_study.exe : fatal error LNK1169: one or more multiply defined symbols found
