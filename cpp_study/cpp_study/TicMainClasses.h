@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include "TicMainFunctions.h"
 
 using namespace std;
 
