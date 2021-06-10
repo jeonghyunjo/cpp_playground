@@ -24,6 +24,9 @@
     <ClCompile Include="tictactoe.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ros_scratch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="main.h">
