@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\jeong\Documents\Github\MCL_Lab\MCL_Lab\main.cpp(117,27): warning C4018: '<': signed/unsigned mismatch
+  MCL_Lab.vcxproj -> C:\Users\jeong\Documents\Github\MCL_Lab\Debug\MCL_Lab.exe
