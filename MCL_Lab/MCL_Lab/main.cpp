@@ -275,8 +275,7 @@ int main()
 
     //####   DON'T MODIFY ANYTHING ABOVE HERE! ENTER CODE BELOW ####
 
-    //TODO: Generate particle weights depending on robot's measurement
-    //TODO: Print particle weights, each on a single line
+
     double w[n];
     for (int i = 0; i < n; i++)
     {
